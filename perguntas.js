@@ -1,23 +1,23 @@
 criaCartao(
-    'Pop',
-    'Qual é a indústria da musica?',
-    'A Taylor Swift'
+    '01',
+    'Local onde fantasmas habitam??',
+    'Assombrações ou casas abandonadas'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual o primeiro grupo global pop do mundo?',
-    'O Now United'
+    '02',
+    'Carro clássico usado pelos irmãoes Winchester?',
+    'Chevrolet Impala 1967'
 )
 
 criaCartao(
-    'Série',
-    'Quantas temporadas tem Greys Anatomy Atualmente?',
-    '21'
+    '03',
+    'Arma usada para matar demônios?',
+    'Colt'
 )
 
 criaCartao(
-    'Taylor Swift',
-    'O que foi a "The Eras Tour"?',
-    'The Eras Tour foi a maior turne da historia'
+    '04',
+    'Quem é o anjo aliado dos irmãos?',
+    'Castiel'
 )
